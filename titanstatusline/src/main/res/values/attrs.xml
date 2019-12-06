@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StatusLineView">
+        <attr name="status_font_family" format="reference"/>
+        <attr name="scale_size" format="float" />
+        <attr name="font_size" format="dimension" />
+        <attr name="circle_radius" format="dimension" />
+        <attr name="text_margin_bottom" format="dimension" />
+        <attr name="min_text_gap" format="dimension" />
+        <attr name="line_stroke_width" format="dimension" />
+    </declare-styleable>
+</resources>
